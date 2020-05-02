@@ -1,2 +1,2 @@
 # Algoritmo-Para-Pruebas
-Algoritmos para pasar pruebas
+Algoritmos para pruebas de la pagina hivemicro.com
